@@ -1,0 +1,14 @@
+/home/brandon/ProgrammingFiles/Yahtzee/bin/Debug/net8.0/win-x64/Yahtzee.exe
+/home/brandon/ProgrammingFiles/Yahtzee/bin/Debug/net8.0/win-x64/Yahtzee.deps.json
+/home/brandon/ProgrammingFiles/Yahtzee/bin/Debug/net8.0/win-x64/Yahtzee.runtimeconfig.json
+/home/brandon/ProgrammingFiles/Yahtzee/bin/Debug/net8.0/win-x64/Yahtzee.dll
+/home/brandon/ProgrammingFiles/Yahtzee/bin/Debug/net8.0/win-x64/Yahtzee.pdb
+/home/brandon/ProgrammingFiles/Yahtzee/obj/Debug/net8.0/win-x64/Yahtzee.GeneratedMSBuildEditorConfig.editorconfig
+/home/brandon/ProgrammingFiles/Yahtzee/obj/Debug/net8.0/win-x64/Yahtzee.AssemblyInfoInputs.cache
+/home/brandon/ProgrammingFiles/Yahtzee/obj/Debug/net8.0/win-x64/Yahtzee.AssemblyInfo.cs
+/home/brandon/ProgrammingFiles/Yahtzee/obj/Debug/net8.0/win-x64/Yahtzee.csproj.CoreCompileInputs.cache
+/home/brandon/ProgrammingFiles/Yahtzee/obj/Debug/net8.0/win-x64/Yahtzee.dll
+/home/brandon/ProgrammingFiles/Yahtzee/obj/Debug/net8.0/win-x64/refint/Yahtzee.dll
+/home/brandon/ProgrammingFiles/Yahtzee/obj/Debug/net8.0/win-x64/Yahtzee.pdb
+/home/brandon/ProgrammingFiles/Yahtzee/obj/Debug/net8.0/win-x64/Yahtzee.genruntimeconfig.cache
+/home/brandon/ProgrammingFiles/Yahtzee/obj/Debug/net8.0/win-x64/ref/Yahtzee.dll
