@@ -26,3 +26,4 @@
 /home/brandon/Programming/Yahtzee/obj/Debug/net8.0/Yahtzee.pdb
 /home/brandon/Programming/Yahtzee/obj/Debug/net8.0/Yahtzee.genruntimeconfig.cache
 /home/brandon/Programming/Yahtzee/obj/Debug/net8.0/ref/Yahtzee.dll
+/home/brandon/Programming/Yahtzee/obj/Debug/net8.0/Yahtzee.sourcelink.json
